@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Choose your card</string>
+    <string name="app_name">Snarky Cards</string>
+    <string name="splash_desc">Snarky Splash Image</string>
+
+</resources>
